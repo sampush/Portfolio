@@ -1,0 +1,28 @@
+.hero-container{
+    background: url(../../assets/GAMEWORKS.jpeg);
+    height:100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    object-fit: contain;
+    background-position: 50%;
+ 
+}
+.home{
+    padding: 25px 200px;
+    margin-bottom: 50px;
+}
+h1.home_text{
+    color: #ffff;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+h2.home_text{
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 800;
+}
